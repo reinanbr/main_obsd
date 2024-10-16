@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c83958c4039aa052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fazer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "681d95f1517cba85",
             "type": "leaf",
             "state": {
@@ -54,9 +42,117 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ff0a0c1a7f93ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina tabela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ba51f2a8f49396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diário pessoal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6accf7d4ef4f92bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina tabela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eca57b2e34a30c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina tabela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1def1ebc9a8f7c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazer hoje.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5421acf77228da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comprar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d42f80ba9ad2880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina tabela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26a35faec83a384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92def73ae477fb61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina tabela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -122,7 +218,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diario.md",
+            "file": "Rotina tabela.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +235,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diario.md",
+            "file": "Rotina tabela.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +247,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diario.md"
+            "file": "Rotina tabela.md"
           }
         }
       }
@@ -168,11 +264,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "681d95f1517cba85",
+  "active": "92def73ae477fb61",
   "lastOpenFiles": [
     "Fazer.md",
-    "Diario.md",
+    "Ideias.md",
+    "Aprendizados.md",
+    "Studio.md",
     "Rotina tabela.md",
-    "Rotina diária cumprida.md"
+    "Diario.md",
+    "Rotina diária cumprida.md",
+    "Auto Análise.md",
+    "Comprar.md",
+    "Fazer hoje.md",
+    "Metas.md",
+    "Diário pessoal.md",
+    "Fazer_Ideias.md",
+    "Rotina.md"
   ]
 }
