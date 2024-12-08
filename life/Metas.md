@@ -13,3 +13,18 @@
 	+ // guardando apenas meu evox e wallet
 	+ Criar readme que mostra as redes dos allPubs
 	+ Criar api/plugib que mostra informacoes de cada pagina de cada rede social.
+**19/10**
++ Até 05/2025
+	+ Meu rancho no oito ou em Petrolina 
+	+ Minhas empresas rodando 
++ 02/2026
+	+ Uma casa boa vizinha ao parque municipal 
+
+**26/10**
++ Só falar do dinheiro de suas produções apenas quando tiver comprado:
+	+ S23 ultra
+	+ Positivo r15 ry7 + acessórios 
+	+ Cadeira presidente 
+
+**27/10**
++ Quanto tiver lucrando em sua casa, de boas, faça react de produtos da Net.

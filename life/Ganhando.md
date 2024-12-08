@@ -1,0 +1,31 @@
+### O Kwai|Yt|TikT|Sites|Bots|API|Apps vai pagar (a vista)
+- [x] seu lanche da noite *(ocorrido em 26/10)*
+- [ ] seu concurso de 40 reais
+- [ ] sua camisa nerd 
+- [ ] seus livros 
+- [ ] suas roupas 
+- [ ] seus presentes para seus pais 
+- [ ] sua máquina de cortar 
+- [ ] seus perfumes e cremes
+	- [ ] humor
+	- [ ] boticário 
+	- [ ] essencial
+- [ ] seus mimos 
+	- [ ] redimi Air dots 6
+	- [ ] RS 4 watchsmart (ou melhor sem ser o rs5)
+- [ ] tablet ^S6 plus
+- [ ] notebook R15 ry7 ^8gb SSD ^256gb 
+- [ ] cadeira presidente 
+- [ ] Galaxy S23 ultra 
+- [ ] minha carteira 
+- [ ] minha liberdade do trabalho 
+- [ ] microondas 
+- [ ] Air flyer 
+- [ ] guarda roupa 
+- [ ] cômoda 
+- [ ] fogão de indução 
+- [ ] mesa de jantar 
+- [ ] armário
+- [ ] um carro para meu pai
+- [ ] uma casa foda de burguês com churrasco e piscina 
+- [ ] uma casa vizinho ao parque municipal de Petrolina 

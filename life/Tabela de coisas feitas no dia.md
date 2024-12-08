@@ -1,0 +1,43 @@
+**28/10**
+- [ ] sites
+- [ ] APIs 
+- [ ] bots
+- [ ] Libs/Frames 
+- [ ] Apps 
+- [ ] Artigos 
+- [ ] Plugins 
+- [ ] Sites blinx 
+- [ ] notas de aula de física para estudos 
+- [ ] notas de aula de física para ensinar 
+- [ ] estudos/brincadeira de matemática avançada 
+- [ ] Estudar concurso 
+- [ ] Hacking 
+- [ ] MVC project 
+- [ ] escrita de livros 
+- [ ] pubs
+	- [ ] leitura do dia
+	- [ ] newsletter's 
+		- [ ] science 
+		- [ ] news
+		- [ ] dev
+		- [ ] geek
+	- [ ] calistenia 
+	- [ ] art18
+	- [ ] meme
+	- [ ] Random 
+	- [ ] Make money
+	- [ ] concurso respostas
+	- [ ] Hacker truques 
+	- [ ] Reinanbr POST code work
+- [ ] data science 
+- [ ] Simulation 
+- [ ] doc
+- [ ] academia 
+- [ ] dieta 
+- [ ] treino de voz
+- [x] freelancer 
+- [ ] computação 
+- [ ] New lang
+- [ ] Leetcode 
+- [ ] Duolingo 
+- [ ] brain train

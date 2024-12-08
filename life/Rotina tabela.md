@@ -256,3 +256,16 @@ My All Works | Freelar
 - hacking work
 - escrever livros 
 - contribuir em outros projetos
+
+
+**26/10**
+
+|     | New mvc | Duolingo | LeetCode | Conceito dev | Estudos concurso | Leitura do dia post cit | Reinanbr post                               |
+| --- | ------- | -------- | -------- | ------------ | ---------------- | ----------------------- | ------------------------------------------- |
+| Seg |         |          |          |              |                  |                         |                                             |
+| Ter |         |          |          |              |                  |                         |                                             |
+| Qua |         |          |          |              |                  |                         |                                             |
+| Qui |         |          |          |              |                  |                         |                                             |
+| Sex |         |          |          |              |                  |                         |                                             |
+| Sab |         |          |          |              |                  |                         | Site blinx \| dt.sci                        |
+| Dom |         |          |          |              |                  |                         | Prof math \| Libs/plugins uso / truques dev |

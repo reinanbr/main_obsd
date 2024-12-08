@@ -40,5 +40,6 @@
     "bookmarks:bookmark-current-section",
     "bookmarks:bookmark-current-heading",
     "editor:cycle-list-checklist"
-  ]
+  ],
+  "promptDelete": false
 }

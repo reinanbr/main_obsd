@@ -16,7 +16,9 @@
                 "file": "Rotina tabela.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Rotina tabela.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Diario.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Diario"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Rotina tabela.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Diário pessoal.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Diário pessoal"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "Rotina tabela.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "Rotina tabela.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "Fazer hoje.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Fazer hoje"
             }
           },
           {
@@ -112,7 +128,9 @@
                 "file": "Comprar.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Comprar"
             }
           },
           {
@@ -124,7 +142,9 @@
                 "file": "Rotina tabela.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
             }
           },
           {
@@ -136,7 +156,9 @@
                 "file": "Aprendizados.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Aprendizados"
             }
           },
           {
@@ -145,14 +167,604 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Fazer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fazer"
+            }
+          },
+          {
+            "id": "72eea85dc0558190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Rotina tabela.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
+            }
+          },
+          {
+            "id": "3344bce50522a616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matutações Matutinas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matutações Matutinas"
+            }
+          },
+          {
+            "id": "7ef30f420a5cf857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "matutações da Tarde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "matutações da Tarde"
+            }
+          },
+          {
+            "id": "15970e9b42d13ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "matutações da Tarde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "matutações da Tarde"
+            }
+          },
+          {
+            "id": "0dabc7959c4a19b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matutações da Noite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matutações da Noite"
+            }
+          },
+          {
+            "id": "bd8e95208d088d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideias"
+            }
+          },
+          {
+            "id": "a2e15107868c2a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diario"
+            }
+          },
+          {
+            "id": "816e2eef4b96eacf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matutações Matutinas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matutações Matutinas"
+            }
+          },
+          {
+            "id": "0874f1d96b38a6d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diario"
+            }
+          },
+          {
+            "id": "922b4c63144f8616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazer com urgência.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fazer com urgência"
+            }
+          },
+          {
+            "id": "0889ca80d8868be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Production"
+            }
+          },
+          {
+            "id": "1b89d4e9b80c59f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Production"
+            }
+          },
+          {
+            "id": "a5d4842bfa3a6a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leis"
+            }
+          },
+          {
+            "id": "81e64a7e4bbb3b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auto Análise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auto Análise"
+            }
+          },
+          {
+            "id": "77de03251c4512dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Produções.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Produções"
+            }
+          },
+          {
+            "id": "f9eb66a0d61a9266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sites"
+            }
+          },
+          {
+            "id": "da784895cf3ec6b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apps"
+            }
+          },
+          {
+            "id": "1e4ed383c88a103c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APIs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "APIs"
+            }
+          },
+          {
+            "id": "93858e7a155cd275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina tabela.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
+            }
+          },
+          {
+            "id": "56bbcd92d1ead58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sites"
+            }
+          },
+          {
+            "id": "cd2e8c2be995268a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leis"
+            }
+          },
+          {
+            "id": "deabf5e4ff48002a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leis"
+            }
+          },
+          {
+            "id": "82d26165fa15497d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artigos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artigos"
+            }
+          },
+          {
+            "id": "cf6d5879cda9ae78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leis"
+            }
+          },
+          {
+            "id": "bd97ed2dd3a755e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leis"
+            }
+          },
+          {
+            "id": "f9ea7bb9137bdab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazer hoje.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fazer hoje"
+            }
+          },
+          {
+            "id": "72b675461e603b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina tabela.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotina tabela"
+            }
+          },
+          {
+            "id": "bdbbbe2e07500a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freelar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freelar"
+            }
+          },
+          {
+            "id": "f7a466e64a20b193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freelar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freelar"
+            }
+          },
+          {
+            "id": "98ffcf0385e4df65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotina"
+            }
+          },
+          {
+            "id": "63fc5ecedf534478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotina"
+            }
+          },
+          {
+            "id": "d27ddfbeed49945b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotina"
+            }
+          },
+          {
+            "id": "2f79a50f7342b5eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazer hoje.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fazer hoje"
+            }
+          },
+          {
+            "id": "f4572c6bff5ce063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diario"
+            }
+          },
+          {
+            "id": "6338dd415f316a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pubs hoje.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pubs hoje"
+            }
+          },
+          {
+            "id": "85c8b5043a41db18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diário pessoal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diário pessoal"
+            }
+          },
+          {
+            "id": "1754dcca04ae4dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Novo momento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Novo momento"
+            }
+          },
+          {
+            "id": "c3e0d3cf9c1e7ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leis"
+            }
+          },
+          {
+            "id": "be3a06e01d2e5434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metas"
+            }
+          },
+          {
+            "id": "41f6923393ce5208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Studio"
+            }
+          },
+          {
+            "id": "1ac013190cb36d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New era.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New era"
+            }
+          },
+          {
+            "id": "ac70c8b1ea1be563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabela de coisas feitas no dia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tabela de coisas feitas no dia"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -168,7 +780,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -183,7 +797,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -194,7 +810,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -202,7 +820,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -218,7 +838,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rotina tabela.md",
+            "file": "New era.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -226,7 +846,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -235,10 +857,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Rotina tabela.md",
+            "file": "Leis.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -247,8 +871,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Rotina tabela.md"
-          }
+            "file": "Leis.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -264,21 +890,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92def73ae477fb61",
+  "active": "1ac013190cb36d61",
   "lastOpenFiles": [
-    "Fazer.md",
-    "Ideias.md",
-    "Aprendizados.md",
-    "Studio.md",
-    "Rotina tabela.md",
-    "Diario.md",
-    "Rotina diária cumprida.md",
+    "Lista de Entrega.md",
+    "New era.md",
+    "Rotina.md",
     "Auto Análise.md",
-    "Comprar.md",
-    "Fazer hoje.md",
+    "Studio.md",
+    "Metas de vida.md",
     "Metas.md",
+    "Leis.md",
+    "Money.md",
+    "Fazer.md",
+    "Fazer com urgência.md",
+    "Fazer (lista completa).md",
+    "Fazer hoje.md",
+    "Editing_now.md",
+    "Novo momento.md",
     "Diário pessoal.md",
-    "Fazer_Ideias.md",
-    "Rotina.md"
+    "Diario.md",
+    "Ideias.md",
+    "Cods entregues.md",
+    "Pubs hoje.md",
+    "Aprendizados.md",
+    "Frase.md",
+    "Comprar.md",
+    "Sair do atraso (todos os projetos).md",
+    "Sites.md",
+    "Pubs.md"
   ]
 }
