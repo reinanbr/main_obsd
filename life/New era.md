@@ -119,6 +119,12 @@ Eu estou sentindo dor. Eu estou perto de terminar o Reinanbr e estou sentindo do
 1. Nunca demore para responder alguém 
 2. Converse sempre olhando nos olhos 
 
+#### Leis de namoro [13/12]
+1. Dormir ou visitar apenas no final de semana. Dia de semana, ir pra casa.
+
+#### Leis de egoísmo e evolução [13/12]
+1. Gaste apenas com você 
+
 <HR>
 ## problemas a serem resolvidos 
 [23/11]
@@ -175,6 +181,16 @@ Guardar e investir
 + Quarde 690k e viva com o restante 
 + Ter casas fora do país 
 + Ter outros Green Card de diversos países 
+
+**09/12**
+*08:07*
+Outros meios de lucro
++ Bot porn
++ Bot Works
++ Site porn
++ Site concurso
++ Site tools
+
 <HR>
 ## aprendizados 
 **22/11**
@@ -185,9 +201,6 @@ Então vá, e faça!
 Vá e tire todas as suas idéias do papel!
 Vá, e faça, o planejado!!
 
-### namoro
-**03/12**
-*08:48*
 <HR>
 ## me
 **22/11**
@@ -261,6 +274,13 @@ Creio que eu sou produtivo, pq sou sempre cobrado de minha e meu pai, o que real
 	+ blinx_world [25/11]
 + Gadando.com [25/11]
 
+### entregar (tudo e com prazo)
+**11/12**
+1. Phyjs ok (15/12)
+2. ReinanBr ok (13/12)
+3. ReySofts ok (11/12)
+4. Tubemp3 ok (12/12)
+5. 
 ### fazer hoje 
 **07/12**
 + Lib tubemp3 
@@ -429,6 +449,9 @@ Creio que eu sou produtivo, pq sou sempre cobrado de minha e meu pai, o que real
 5. comprar um relógio
 6. 
 
+### entregar em ordem 
+**12/12**
+1. 
 <hr>
 ## fazendo agora 
 **18/11**
@@ -543,6 +566,97 @@ Art18:
 	+ Porn actriz list 
 	+ Actriz vídeo
 	+ Only actriz video
+
+**10/12**
+[Seg - Sex]
+1. 4h -> newsletter's | citation | fofoca
+5. 5h -> preparar almoço | cuscuz e café 
+6. 5:20h -> academia 
+7. 6:30h -> se arrumar pra ir trabalhar | treino de voz 
+8. 7:30h -> APIs | art18{others post}
+9. 8:30h -> Artigos | bots | brincar com matemática avançada
+10. 9:30h -> Sites | notas de aulas | listas
+11. 12h -> almoço | hacking | estudar | Posts 
+12. 13h -> Libs/Frames/plugins | freelar 
+13. 15h -> Duolingo | brain train 
+14. 17h -> Leetcode | New lang
+15. 18h -> freelar
+16. 19h -> estudos 
+17. 21h -> posts -{ CUT scene movie, hack, ART{lista, scene without, sexy girl}, fitness Scene, MakeMoney motivation}
+19. 22h -> Apps 
+20. 23h -> dormir
+21. Tempo vago: plots, coding, plugins, extensões Chrome vs code, vim, nvim.
+Pode trocar a manhã para estudar 
+Pode trocar a noite para academia | estudar 
+Pode trocar o dia todo pra freelar 
+
+**11/12**
+0. Citação do dia + obra de arte 
+1. MVC 
+2. Libs/Frameworks/plugins
+3. Leetcode
+4. Duolingo 
+5. Brain train 
+6. Bot/App/API
+7. Academia 
+Sábado
+1. Física 
+2. Artigo 
+3. Sci Publish
+Domingo 
+1. Inglês 
+2. Prof math 
+3. Funny edit 
+Outros:
+1. Uma Newsletter
+2. Uma scene CUT
+3. Um artigo de Dev/philo/News
+4. Escrita de história ou preparação 
+**Ou**
+1. Fazer todas as suas atividades necessárias 
+2. No tempo específico, fazer:
+	4h -> Newsletter's  + fofoca 
+	8h -> estudar | MVC
+	13h -> Lib/Framework/plugin 
+	17h -> Leetcode/Brian train/LeetCode
+	19/20h -> academia 
+	21h -> estudar 
+	22h -> cut scene, {list girls, girls sex,}, fitness, meme (fis, funny|shit)
+	23h -> dormir
+
+**...14/12**
+
+|     | MVC           | LeetCode  | Duolingo | Estudar      | Code sudy/work | Artigo     | Code blinx | Framework back | Framework front | Works Dev      | ReinanBr             | Citations  | Cit philo | Cit dev       | Site                      | Bot       | Lib | API | Framework | Plugin | App |
+| --- | ------------- | --------- | -------- | ------------ | -------------- | ---------- | ---------- | -------------- | --------------- | -------------- | -------------------- | ---------- | --------- | ------------- | ------------------------- | --------- | --- | --- | --------- | ------ | --- |
+| Seg | Go/lisp       | Algoritms |          | Português    | IA             | Philo      | Bash       | Django         | React           | Chat / sockets | Otimização de código | História   | Física    | QC            | Chat / chat áudio - vídeo | IA        |     |     |           |        |     |
+| Ter | Rust/C++      | Pilha     |          | Matemática   | QC             | News       | Dart       | Laravel        | Angular         |                | Compilações          | Psicologia | Math      | Linguagens    | Rede social               | Send data |     |     |           |        |     |
+| Qua | Kotlin/Java   | Fila      |          | Leis         | Algoritms      | Dev news   | Rust       | Spring         | Vue             |                | Conselhos            | Filosofia  | Biologia  | IA            | Blog                      | RPG       |     |     |           |        |     |
+| Qui | Elixir/lean   | IA        |          | Redação      | Low code       | Philo News | Go         | Blazor         | Next            |                | LeetCode             | Genius     | Química   | Math discrete | IA                        | Service   |     |     |           |        |     |
+| Sex | Haskell/vlang | Math      |          | Gramática    | Assemby        | News       | Haskell    | Gin            |                 |                | Inovações            | Sociologia | Geografia | Algoritm      | Simulation                |           |     |     |           |        |     |
+| Sab | Ruby/clojure  | Busca     |          | Informática  | Kernel         | Medium     | Vlang      | Rocket         |                 |                | IA                   |            |           | Money         | Rádio                     |           |     |     |           |        |     |
+| Dom | Ts/C#         | QC        |          | Constituição | Android        | Dev news   | Lean       | Express/nest   |                 |                | Qc                   |            |           | Startup       | Game                      |           |     |     |           |        |     |
+
+Com isso, a lista de entrega vai ti orientar, junto com o prazo.
+**14/12**
+[Yt, Kwai, tik Tok, insta, twitter]
+ReinanBr -> {QC, IA, Coding, Articles, ensinamentos}
+Gpftc -> {simulation}
+ReySofts -> {projetos que envolvam o nome da ReySofts}
+Philo -> [td dia] -> notícias | sab -> artigos| dom -> vídeos de conteúdo 
+Citations -> [td dia] -> citations+ART| dom -> coments 
+Dev, news, geek, fofoca -> [td dia] -> notícias
+Art18 -> [td dia] -> lista girls, girl sex, scene without context 
+CUT scene movies -> [td dia] -> scenes cortes
+Fitness -> [td dia] -> scenes
+MakeMoney -> [td dia] -> conselhos 
+Funny edit -> [rand] -> meme, shit | dom -> edit
+Math.phy -> [rand] -> meme, contente | sab -> sci. | Dom -> prof
+
+
+
+
+
+
 
 
 <HR>
